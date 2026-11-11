@@ -1,4 +1,4 @@
-```markdown
+
 # LLM Content Generation and Confidence Scoring
 
 This Google Colab notebook demonstrates how to use the LLM  (Gemini)   to generate text content and calculate a 'confidence score' for the generated responses.
